@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nguyễn Tân Thành
 
 ### A student from Sai Gon University 
-![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtiaTBiYjIyN2tpZzd4MmF6d3piaWR1amdvZXhvcGRyeXRuNzUzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUTywPPYZpdDChyBaZ/giphy.gif)
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG05eDExYnZmbzh5dHQ0dmI3MjZ1OGxlZDFuaHQ1ZmM5ZjF4Nm1saiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Zi6WfpgMU2DNx731N/giphy.gif)
 - 🌱 I'm currently learning **Cybersecurity, AI**
 
 - 💬 Ask me about **C, C++, Python and SQL**
