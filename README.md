@@ -2,8 +2,6 @@
 
 ### A student from Sai Gon University
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngth-tan&label=Profile views&color=0e75b6&style=flat" alt="ngth-tan" /> </p>
-
 - 🌱 I'm currently learning **Cybersecurity, AI**
 
 - 💬 Ask me about **C, C++, Python and SQL**
