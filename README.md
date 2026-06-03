@@ -15,7 +15,6 @@
 <a href="https://github.com/ngth-tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ngth-tan" height="30" width="40" /></a>
 <a href="https://fb.com/nguyen.thanh.209832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.thanh.209832" height="30" width="40" /></a>
 <a href="https://instagram.com/fianchett_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fianchett_o" height="30" width="40" /></a>
-<a href="https://discord.gg/console.log" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="console.log" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
